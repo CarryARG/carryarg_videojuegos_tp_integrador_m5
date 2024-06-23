@@ -87,7 +87,10 @@ Este análisis integral no solo nos permitirá identificar oportunidades de merc
 Presentamos una serie de KPIs que se derivan de los datos de Gaming, los cuales se pueden visualizar en la presentación en Power BI:
 
 **- Ventas por Año y Región.** Ofrece información sobre las ventas regionales y globales que se realizaron a lo largo de los años.
+https://github.com/CarryARG/carryarg_videojuegos_tp_integrador_m5/blob/main/3%20Gaming/Venta_de_Videojuegos.png?raw=true
 
+**- Tendencias de Géneros y Plataformas según Región.** Muestra la cantidad de ventas de videojuegos segun género, plataforma, año de ventas, etc.
+https://github.com/CarryARG/carryarg_videojuegos_tp_integrador_m5/blob/main/3%20Gaming/Tendencias_Generos_y_Plataformas.png?raw=true
 
 [Ir al índice del Resumen Ejecutivo](#id00)
 <br />
@@ -95,9 +98,15 @@ Presentamos una serie de KPIs que se derivan de los datos de Gaming, los cuales 
 <div id='idRE3' />
  
 ### Resultados y Conclusiones
+Al llevar a cabo estos análisis en Power BI, obtenemos una visión integral y detallada del mercado de videojuegos, permitiéndonos tomar decisiones informadas y estratégicas para el éxito de un proyecto.
 
 [Ir al índice del Resumen Ejecutivo](#id00)
 <br />
 
 <div id='idRE4' />
- 
+
+### Recomendaciones
+Para maximizar el éxito del primer juego de la empresa, es crucial enfocarse en géneros de alta demanda como acción, aventura y RPG, aprovechando las tendencias actuales y las preferencias de los consumidores. Es fundamental diferenciar el juego de la competencia mediante la incorporación de elementos innovadores. Al elegir la plataforma, se debe priorizar el lanzamiento en aquellas con mayor popularidad y crecimiento, como móviles y consolas populares, realizando un análisis de costo-beneficio para determinar la viabilidad de expansión a múltiples plataformas en fases posteriores.
+
+[Ir al índice del Resumen Ejecutivo](#id00)
+<br />
