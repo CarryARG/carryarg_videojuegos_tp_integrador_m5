@@ -87,12 +87,16 @@ Este análisis integral no solo nos permitirá identificar oportunidades de merc
 Presentamos una serie de KPIs que se derivan de los datos de Gaming, los cuales se pueden visualizar en la presentación en Power BI:
 
 **- Ventas por Año y Región.** Ofrece información sobre las ventas regionales y globales que se realizaron a lo largo de los años.
+
 ![Venta_de_Videojuegos](https://github.com/CarryARG/carryarg_videojuegos_tp_integrador_m5/assets/110673534/795b0b58-bc9f-4399-8cd5-f757ff357c5e)
+
 <br />
 
 
 **- Tendencias de Géneros y Plataformas según Región.** Muestra la cantidad de ventas de videojuegos segun género, plataforma, año de ventas, etc.
+
 ![Tendencias_Generos_y_Plataformas](https://github.com/CarryARG/carryarg_videojuegos_tp_integrador_m5/assets/110673534/406c2a5f-d516-440d-ae89-5013de112326)
+
 <br />
 
 
